@@ -1,7 +1,7 @@
-img {
+.bgImages {
   position: absolute;
-  width: 10%;
-  height: 10%;
+  width: 100%;
+  height: 100%;
   left: 0px;
   top: 0px;
   right: 0px;
