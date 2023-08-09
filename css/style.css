@@ -1,4 +1,4 @@
-.bgImages {
+/*.bgImages {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -8,4 +8,7 @@
   bottom: 0px;
   z-index: -1;
   opacity: 80%;
+}*/
+.hidden {
+  display: none;
 }

@@ -1,7 +1,6 @@
 const loginForm = document.getElementById("login-form");
 const loginInput = loginForm.querySelector("input");
 const loginButton = loginForm.querySelector("button");
-const link = document.querySelector("a");
 const greeting = document.querySelector("#greeting");
 const HIDDEN = "hidden";
 const USERNAME_KEY = "username";
